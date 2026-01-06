@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\2025\\Programming Fundamentals\\Week 3\\Week 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3E31E3-39D1-400C-9B87-479745CA6D69}|Week 3\\Week 3.vcxproj|U:\\2025\\Programming Fundamentals\\Week 3\\Week 3\\Week 3\\Week 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3E31E3-39D1-400C-9B87-479745CA6D69}|Week 3\\Week 3.vcxproj|solutionrelative:Week 3\\Week 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week 3.cpp",
+              "DocumentMoniker": "U:\\2025\\Programming Fundamentals\\Week 3\\Week 3\\Week 3\\Week 3.cpp",
+              "RelativeDocumentMoniker": "Week 3\\Week 3.cpp",
+              "ToolTip": "U:\\2025\\Programming Fundamentals\\Week 3\\Week 3\\Week 3\\Week 3.cpp",
+              "RelativeToolTip": "Week 3\\Week 3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T13:00:35.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
